@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/itsCr1spy/React-Portfolio-Website/static/css/main.d5be7411.css",
+    "main.js": "/itsCr1spy/React-Portfolio-Website/static/js/main.ca542866.js",
+    "static/media/weatherApp.png": "/itsCr1spy/React-Portfolio-Website/static/media/weatherApp.49d4ca2bc6d707a24d05.png",
+    "static/media/chatApp.png": "/itsCr1spy/React-Portfolio-Website/static/media/chatApp.f8ec6d8842b5c40fa978.png",
+    "static/media/musicPlayer.png": "/itsCr1spy/React-Portfolio-Website/static/media/musicPlayer.3956d3c0e8ea0bc82ca6.png",
+    "static/media/2048Game.png": "/itsCr1spy/React-Portfolio-Website/static/media/2048Game.548c6ebe09f7a50d3e84.png",
+    "static/media/webDocument.png": "/itsCr1spy/React-Portfolio-Website/static/media/webDocument.6d3b2a8d93547eba6f55.png",
+    "static/media/resume.pdf": "/itsCr1spy/React-Portfolio-Website/static/media/resume.a392aa3a8de6f4978c2d.pdf",
+    "static/media/react.png": "/itsCr1spy/React-Portfolio-Website/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/c.png": "/itsCr1spy/React-Portfolio-Website/static/media/c.cdcf3439b857aa9604b4.png",
+    "static/media/programmer.png": "/itsCr1spy/React-Portfolio-Website/static/media/programmer.7f82de8f7b5d424096cf.png",
+    "static/media/c++.png": "/itsCr1spy/React-Portfolio-Website/static/media/c++.c417f91d77a7ff6b1329.png",
+    "static/media/bootstrap.png": "/itsCr1spy/React-Portfolio-Website/static/media/bootstrap.023751a9ed8238182851.png",
+    "static/media/html.png": "/itsCr1spy/React-Portfolio-Website/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/python.png": "/itsCr1spy/React-Portfolio-Website/static/media/python.e80f54ac40860c436de9.png",
+    "static/media/tailwind.png": "/itsCr1spy/React-Portfolio-Website/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/itsCr1spy/React-Portfolio-Website/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/itsCr1spy/React-Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/itsCr1spy/React-Portfolio-Website/index.html",
+    "main.d5be7411.css.map": "/itsCr1spy/React-Portfolio-Website/static/css/main.d5be7411.css.map",
+    "main.ca542866.js.map": "/itsCr1spy/React-Portfolio-Website/static/js/main.ca542866.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5be7411.css",
+    "static/js/main.ca542866.js"
+  ]
+}
